@@ -1,0 +1,4 @@
+requests>=2.10.0
+sockjs-tornado>=1.0.3
+tornado>=4.4.0
+tornado-cors>=0.6.0
