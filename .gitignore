@@ -1,2 +1,9 @@
 *.pyc
 *.log
+*.swp
+*.pic
+__pycache__
+.idea
+.DS_Store
+build
+node_modules
