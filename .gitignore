@@ -1,6 +1,7 @@
 *.pyc
 *.log
 *.swp
+*.db
 *.pic
 __pycache__
 .idea
